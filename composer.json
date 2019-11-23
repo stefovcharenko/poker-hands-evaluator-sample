@@ -1,0 +1,17 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/stefovcharenko/poker-hands-evaluator"
+    }
+  ],
+  "require": {
+    "symfony/console": "^4.4",
+    "stefan/poker-hands-evaluator": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": ""
+    }
+  }
+}
