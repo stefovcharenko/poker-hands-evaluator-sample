@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "400ec9e8bb294905c39f26cd0fb8840a",
+    "content-hash": "898a395c46a15cc9cb9f50391a9d4e79",
     "packages": [
         {
             "name": "psr/container",
@@ -57,16 +57,16 @@
         },
         {
             "name": "stefan/poker-hands-evaluator",
-            "version": "dev-master",
+            "version": "1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stefovcharenko/poker-hands-evaluator.git",
-                "reference": "de8dda1959518f22e7c528df3c7ced3fd872c9cb"
+                "reference": "9a8251f3d743961a6e91ec6dee6b17403b4ffa1d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stefovcharenko/poker-hands-evaluator/zipball/de8dda1959518f22e7c528df3c7ced3fd872c9cb",
-                "reference": "de8dda1959518f22e7c528df3c7ced3fd872c9cb",
+                "url": "https://api.github.com/repos/stefovcharenko/poker-hands-evaluator/zipball/9a8251f3d743961a6e91ec6dee6b17403b4ffa1d",
+                "reference": "9a8251f3d743961a6e91ec6dee6b17403b4ffa1d",
                 "shasum": ""
             },
             "require": {
@@ -87,10 +87,10 @@
                 }
             ],
             "support": {
-                "source": "https://github.com/stefovcharenko/poker-hands-evaluator/tree/master",
+                "source": "https://github.com/stefovcharenko/poker-hands-evaluator/tree/1.0",
                 "issues": "https://github.com/stefovcharenko/poker-hands-evaluator/issues"
             },
-            "time": "2019-11-24T13:25:27+00:00"
+            "time": "2019-11-24T14:17:47+00:00"
         },
         {
             "name": "symfony/class-loader",
@@ -403,9 +403,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "stefan/poker-hands-evaluator": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
