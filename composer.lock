@@ -61,16 +61,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/stefovcharenko/poker-hands-evaluator.git",
-                "reference": "3888b2adca440a1d720a5e59884ea8a3dd26e202"
+                "reference": "de8dda1959518f22e7c528df3c7ced3fd872c9cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stefovcharenko/poker-hands-evaluator/zipball/3888b2adca440a1d720a5e59884ea8a3dd26e202",
-                "reference": "3888b2adca440a1d720a5e59884ea8a3dd26e202",
+                "url": "https://api.github.com/repos/stefovcharenko/poker-hands-evaluator/zipball/de8dda1959518f22e7c528df3c7ced3fd872c9cb",
+                "reference": "de8dda1959518f22e7c528df3c7ced3fd872c9cb",
                 "shasum": ""
             },
             "require": {
                 "ext-mbstring": "*",
+                "php": "^7.2",
                 "symfony/class-loader": "3.4.*"
             },
             "type": "library",
@@ -89,7 +90,7 @@
                 "source": "https://github.com/stefovcharenko/poker-hands-evaluator/tree/master",
                 "issues": "https://github.com/stefovcharenko/poker-hands-evaluator/issues"
             },
-            "time": "2019-11-23T20:34:19+00:00"
+            "time": "2019-11-24T13:25:27+00:00"
         },
         {
             "name": "symfony/class-loader",
